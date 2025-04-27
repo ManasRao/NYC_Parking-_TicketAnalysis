@@ -30,7 +30,7 @@ A full **research paper** documenting methodology, experiments, results, and pol
 
 - 📝 **Research Paper:**
   - Complete research document available in the repository.
-  - *[View Research Paper →](./your-research-paper-filename.pdf)*
+  - *[View Research Paper →](Comprehensive Analysis of Parking Violations in New York City.pdf)*
 
 ---
 
